@@ -69,8 +69,7 @@ lib.generateFormTextFieldWithLabel = function(name, label)
     return "<form>"+label+": <input type=\"text\" name=\""+name+"\"></form>"
 }
 
-lib.generateDropdownList = function(arrayOfValues, arrayOfText) 
-{
+lib.generateDropdownList = function(arrayOfValues, arrayOfText) {
     return "not yet implemented"
 }
 
